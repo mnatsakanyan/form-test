@@ -35,6 +35,7 @@ Laravel [Configuration](https://laravel.com/docs/#configuration)
 Run
 
 ```
+npm install
 npm run dev
 ```
 
@@ -58,7 +59,3 @@ http://localhost:8000/items
 
 * [vuejs](https://github.com/vuejs/vue) - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * [bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-
-## Authors
-
-* **Artur Karamyan** - *Initial work* - [Artur-Karamyan](https://github.com/Artur-Karamyan)
